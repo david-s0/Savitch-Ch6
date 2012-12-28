@@ -1,0 +1,6 @@
+<?xml version="1.0" standalone="no"?> 
+ <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+ "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd"> 
+ <svg width="410" height="410" 
+ xmlns="http://www.w3.org/2000/svg"> 
+ <line x1="0" y1="410" x2="410" y2="410" style="stroke:purple;stroke-width:10"/><line x1="0" y1="0" x2="0" y2="410" style="stroke:purple;stroke-width:10"/><rect x="30" y="136.034" width="70" height="268.966" style="fill:blue;"/><rect x="130" y="136.034" width="70" height="268.966" style="fill:red;"/><rect x="230" y="5" width="70" height="400" style="fill:green;"/><rect x="330" y="398.103" width="70" height="6.89655" style="fill:grey;"/></svg>
